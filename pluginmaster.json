@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "Plume",
+    "Name": "Amateur",
+    "Punchline": "Translates enemy cast names into a different language",
+    "Description": "Amateur is a plugin that translates enemy cast names into a language different from your game client's.",
+    "IsHide": false,
+    "InternalName": "Amateur",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/Plumie/Amateur/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Plumie/Amateur/releases/download/1.0.0.0/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Plumie/Amateur/main/Data/icon.png"
+  }
+]
