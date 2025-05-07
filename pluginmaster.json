@@ -10,8 +10,8 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/Plumie/Amateur/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Plumie/Amateur/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Plumie/Amateur/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Plumie/Amateur/releases/download/1.0.0.1/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Plumie/Amateur/main/Data/icon.png"
   }
 ]
